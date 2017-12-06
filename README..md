@@ -1,1 +1,1 @@
-go samples
+Clone the repository to your lcoal machine and set the GOPATH property to point to this repo directory (GOLANG_SAMPLES)
